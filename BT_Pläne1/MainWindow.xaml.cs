@@ -17,7 +17,7 @@ using System.Windows.Shapes;
 namespace BT_Pläne1
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml 
     /// </summary>
     public partial class MainWindow : Window
     {
